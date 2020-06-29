@@ -52,6 +52,8 @@
 * 百度云网盘链接：https://pan.baidu.com/s/1bALCLtrxYcGQb9P1zbgFMg 
 * 提取码：rami
 
+### 算法说明书
+* 链接: https://pan.baidu.com/s/1WLBOcAzvjGeRyIfFVE-gOA 提取码: jkr7
 
 ### Geoman基线链接
 * https://github.com/wumingyao/MyGeoMAN.git
